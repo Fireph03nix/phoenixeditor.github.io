@@ -28,3 +28,10 @@ font-family: 'Playfair Display', serif;
     bottom: 85px;
     right: 10px;
 }
+
+.create-account{
+
+    background: #1e1e1e;
+    color: #fff!important;
+    margin-left: 15px;
+}
