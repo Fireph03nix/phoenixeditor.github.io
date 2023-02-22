@@ -15,16 +15,10 @@ p{
 .whatsapp_float{
     position: fixed;
     bottom: 40px;
-    right: 10px;
+    right: 110px;
     z-index: 999;
 }
-.gmail{
 
-    position: fixed;
-    bottom: 85px;
-    right: 10px;
-    z-index: 999;
-}
 
 .create-account{
 
